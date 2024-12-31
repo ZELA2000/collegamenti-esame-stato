@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/storia/storia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/storia/storia/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:29.281+01:00","updated":"2024-12-31T14:23:41.366+01:00"}
 ---
 
 - [[Storia/Gli Stati Uniti nel Secondo '800\|Gli Stati Uniti nel Secondo '800]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inglese/the-suffragettes-movement/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/inglese/the-suffragettes-movement/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.771+01:00","updated":"2024-12-31T14:29:16.281+01:00"}
 ---
 
 ![[The Suffragettes.pdf]]

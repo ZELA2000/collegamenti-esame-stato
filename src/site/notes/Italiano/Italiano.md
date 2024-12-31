@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/italiano/italiano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/italiano/italiano/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.960+01:00","updated":"2024-12-31T14:27:54.293+01:00"}
 ---
 
 - [[Italiano/Emile Zola\|Emile Zola]]
