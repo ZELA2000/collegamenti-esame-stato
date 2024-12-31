@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inglese/inglese/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.835+01:00","updated":"2024-12-31T14:29:33.424+01:00"}
+{"dg-publish":true,"permalink":"/inglese/inglese/","dgPassFrontmatter":true,"created":"2024-12-31T14:06:28.835+01:00","updated":"2024-12-31T14:29:33.424+01:00"}
 ---
 
 - [[Inglese/Oscar Wilde, The Picture of Dorian Gray\|Oscar Wilde, The Picture of Dorian Gray]]

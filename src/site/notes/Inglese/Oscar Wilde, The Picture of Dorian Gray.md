@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inglese/oscar-wilde-the-picture-of-dorian-gray/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.790+01:00","updated":"2024-12-31T14:29:28.557+01:00"}
+{"dg-publish":true,"permalink":"/inglese/oscar-wilde-the-picture-of-dorian-gray/","dgPassFrontmatter":true,"created":"2024-12-31T14:06:28.790+01:00","updated":"2024-12-31T14:29:28.557+01:00"}
 ---
 
 ![[Oscar Wilde.pdf]]

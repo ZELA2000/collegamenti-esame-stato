@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agganci/prigioni/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.443+01:00","updated":"2024-12-31T14:31:22.977+01:00"}
+{"dg-publish":true,"permalink":"/agganci/prigioni/","dgPassFrontmatter":true,"created":"2024-12-31T14:06:28.443+01:00","updated":"2024-12-31T14:31:22.977+01:00"}
 ---
 
 # Collegamenti

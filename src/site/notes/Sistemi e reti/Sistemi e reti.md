@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sistemi-e-reti/sistemi-e-reti/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:29.171+01:00","updated":"2024-12-31T14:24:36.264+01:00"}
+{"dg-publish":true,"permalink":"/sistemi-e-reti/sistemi-e-reti/","dgPassFrontmatter":true,"created":"2024-12-31T14:06:29.171+01:00","updated":"2024-12-31T14:24:36.264+01:00"}
 ---
 
 - [[Sistemi e reti/DHCP\|DHCP]]

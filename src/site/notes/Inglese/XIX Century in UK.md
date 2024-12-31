@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inglese/xix-century-in-uk/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-12-31T14:06:28.804+01:00","updated":"2024-12-31T14:29:10.500+01:00"}
+{"dg-publish":true,"permalink":"/inglese/xix-century-in-uk/","dgPassFrontmatter":true,"created":"2024-12-31T14:06:28.804+01:00","updated":"2024-12-31T14:29:10.500+01:00"}
 ---
 
 ![[XIX CENTURY IN THE UK.pdf]]
